@@ -112,7 +112,7 @@ html{
 
 .home{
     display: flex;
-    background: url("/banner.jpg") no-repeat center;
+    background: url("/profile-1.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
